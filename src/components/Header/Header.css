@@ -1,0 +1,14 @@
+.header {
+  background-color: rgb(40, 144, 255);
+  display: flex;
+}
+
+.hEl {
+  padding: 20px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

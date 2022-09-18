@@ -1,0 +1,9 @@
+#newPost {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newPost {
+  width: 150px;
+}

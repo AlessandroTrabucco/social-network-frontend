@@ -1,0 +1,42 @@
+form {
+  display: flex !important;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin-top: 100px;
+}
+
+input {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 12px;
+  width: 400px;
+  border: 1.5px solid rgb(212, 212, 212);
+  border-radius: 8px;
+}
+
+.hint {
+  font-size: 14px;
+  font-weight: 900;
+  display: flex;
+  align-items: flex-start;
+  width: 400px;
+}
+
+#signupLink {
+  color: #3069fe;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font: inherit;
+  padding: 13px;
+  background-color: #3069fe;
+  border: 2px solid #3069fe;
+  border-radius: 5px;
+  color: white;
+  width: 430px;
+}

@@ -1,0 +1,54 @@
+form {
+  display: flex !important;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  margin-top: 100px;
+}
+
+input {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 12px;
+  width: 400px;
+  border: 1.5px solid rgb(212, 212, 212);
+  border-radius: 8px;
+}
+
+.hint {
+  font-size: 14px;
+  font-weight: 900;
+  display: flex;
+  align-items: flex-start;
+  width: 428px;
+}
+
+#signupLink {
+  color: #3069fe;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font: inherit;
+  padding: 13px;
+  background-color: #3069fe;
+  border: 2px solid #3069fe;
+  border-radius: 5px;
+  color: white;
+  width: 430px;
+}
+
+.errorText {
+  width: 100%;
+  margin-left: 53% !important;
+  font-size: 13px;
+  color: red;
+  height: 100%;
+  margin-bottom: 10px;
+}
+
+.inputErr {
+  border: 1.5px solid red;
+  margin-bottom: 3px;
+}

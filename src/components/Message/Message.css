@@ -1,0 +1,20 @@
+.message {
+  width: 400px;
+  min-height: 50px;
+  background-color: green;
+  margin-bottom: 10px;
+}
+
+#date {
+  font-size: 15px;
+  margin-top: 9px;
+  margin-left: 115px;
+  color: rgb(72, 105, 255);
+}
+
+#o_date {
+  color: white;
+  font-size: 15px;
+  margin-top: 9px;
+  margin-left: 115px;
+}
